@@ -1,5 +1,0 @@
-Add your resume/CV as a PDF in this folder named "resume.pdf"
-(or update the `resume` path in js/data.js if you name it differently).
-
-The "Download Resume / Download CV" buttons in the navbar and hero
-already link to: assets/resume.pdf
